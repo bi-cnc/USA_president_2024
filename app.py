@@ -128,8 +128,7 @@ table["Percentage 3"] = table["Percentage 3"].astype(str) + " %"
 
 # Změna formátu sloupce "Sample" z "1,906" na "1 906"
 table["Sample"] = table["Sample"].str.replace(',', ' ')
-table = table.iloc[:5]  # Omezíme na prvních 18 řádků
-
+table = table.iloc[:18]  # Omezíme na prvních 18 řádků
 
 # Funkce pro modrou barvu
 def color_percentage_blue(val, max_intensity=255):
