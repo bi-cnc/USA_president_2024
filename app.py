@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import streamlit as st
 
+st.title("Předvolební průzkumy v USA")
 
 # nejriv stahnu nova data za vcerejsek (uzaviraci hodnota)
 source_website = "https://projects.fivethirtyeight.com/polls/president-general/2024/national/"
