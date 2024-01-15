@@ -158,3 +158,9 @@ st.text("")
 st.dataframe(styled_table,hide_index=True,column_config={"Candidate 1":biden_column,"Candidate 3": trump_column,"Percentage 1": percent_column,
                                                   "Percentage 3": percent_column,"Pollster":pollster_column,"Sample":vzorek_column},height=667)
 
+# Získání aktuálního data
+dnesni_datum = datetime.date.today().strftime("%d.%m.%Y")  # Formátování data na formát DD.MM.YYYY
+
+st.markdown(f'<span style="font-size: 14px">**Zdroj:** companiesmarketcap.com | **Data:** k {dnesni_datum} | **Autor:** lig </span>', unsafe_allow_html=True)
+
+
