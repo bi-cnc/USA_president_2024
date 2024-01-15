@@ -1,6 +1,4 @@
 
-
-
 from ast import operator
 from operator import index
 import pandas as pd
@@ -10,7 +8,6 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import streamlit as st
 
-st.title("Předvolební průzkumy v USA")
 
 # nejriv stahnu nova data za vcerejsek (uzaviraci hodnota)
 source_website = "https://projects.fivethirtyeight.com/polls/president-general/2024/national/"
@@ -155,7 +152,7 @@ styled_table = table.style.applymap(lambda x: color_percentage_blue(x, max_inten
                           .applymap(lambda x: color_percentage_red(x, max_intensity=max_red_intensity), subset=['Percentage 3'])
 
 
-
+st.title("Předvolební průzkumy v USA")
 st.dataframe(styled_table,hide_index=True,column_config={"Candidate 1":biden_column,"Candidate 3": trump_column,"Percentage 1": percent_column,
                                                   "Percentage 3": percent_column,"Pollster":pollster_column,"Sample":vzorek_column},height=500)
 
