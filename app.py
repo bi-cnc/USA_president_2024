@@ -9,74 +9,13 @@ import pandas as pd
 import streamlit as st
 
 
-# nejriv stahnu nova data za vcerejsek (uzaviraci hodnota)
-source_website = "https://projects.fivethirtyeight.com/polls/president-general/2024/national/"
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
-    "Accept-Encoding": "*",
-    "Connection": "keep-alive"
-}
-# Make a GET request to fetch the raw HTML content
-html_content = requests.get(source_website, headers=headers).text
+# Load the data
+@st.cache_data
+def load_data():
+    df = pd.read_csv("scraped.csv")
+    return df
 
-
-# Parse the HTML with BeautifulSoup
-soup = BeautifulSoup(html_content, "html.parser")
-
-# Find the table
-table = soup.find("table", class_="polls-table")
-
-# Initialize an empty list to store the extracted data
-data = []
-
-# Iterate through each row in the table
-for row in soup.find_all("tr"):
-    # Initialize a dictionary for each row
-    row_data = {}
-
-    # Extract date
-    date = row.find("td", class_="dates")
-    if date:
-        row_data["Date"] = date.get_text(strip=True)
-    
-    # Extract sample size
-    sample = row.find("td", class_="sample")
-    if sample:
-        row_data["Sample"] = sample.get_text(strip=True)
-
-    # Extract sample type
-    sample_type = row.find("td", class_="sample-type")
-    if sample_type:
-        row_data["Sample Type"] = sample_type.get_text(strip=True)
-
-    # Extract pollster name
-    pollster = row.find("td", class_="pollster")
-    if pollster:
-        row_data["Pollster"] = pollster.get_text(strip=True)
-
-    # Extract sponsor
-    sponsor = row.find("td", class_="sponsor")
-    if sponsor:
-        row_data["Sponsor"] = sponsor.get_text(strip=True)
-
-    # Extract answers and values (candidates and percentages)
-    answers = row.find_all("td", class_="answer")
-    values = row.find_all("td", class_="value")
-    for i, answer in enumerate(answers):
-        candidate = answer.get_text(strip=True)
-        percentage = values[i].get_text(strip=True) if i < len(values) else None
-        row_data[f"Candidate {i+1}"] = candidate
-        row_data[f"Percentage {i+1}"] = percentage
-
-    # Add the row data to the list if it's not empty
-    if row_data:
-        data.append(row_data)
-
-# Convert the list of dictionaries to a pandas DataFrame for better visualization
-df = pd.DataFrame(data)
-df.head()  # Display the first few rows of the DataFrame
-
-table = pd.DataFrame(data)
+table = load_data().copy()
 
 import calendar
 from datetime import datetime
