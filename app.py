@@ -10,7 +10,6 @@ import streamlit as st
 
 
 # Load the data
-@st.cache_data
 def load_data():
     df = pd.read_csv("scraped.csv")
     return df
