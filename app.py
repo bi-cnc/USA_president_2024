@@ -94,7 +94,7 @@ styled_table = table.style.applymap(lambda x: color_percentage_blue(x, max_inten
 st.title("Předvolební průzkumy v USA")
 st.text("")
 st.dataframe(styled_table,hide_index=True,column_config={"Candidate 1":biden_column,"Candidate 3": trump_column,"Percentage 1": percent_column,
-                                                  "Percentage 3": percent_column,"Pollster":pollster_column,"Sample":vzorek_column},height=400)
+                                                  "Percentage 3": percent_column,"Pollster":pollster_column,"Sample":vzorek_column},height=380)
 
 import datetime
 # Získání aktuálního data
