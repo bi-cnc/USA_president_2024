@@ -1,6 +1,8 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
 Jan. 28-30,"1,486",RV,YouGov,The Economist,Biden,43%,Biden,43%,Trump,42%
-Jan. 27-30,"1,217",RV,Civiqs,Daily Kos,Biden,44%,Biden,44%,Trump,44%
+Jan. 27-30,"1,217",RV,Civiqs,Daily KosDaily Kosis a partisan sponsor for the Democratic Party.,Biden,44%,Biden,44%,Trump,44%
+Jan. 25-30,983,RV,SSRS,CNN,Biden,39%,Biden,39%,Haley,52%
+Jan. 25-30,983,RV,SSRS,CNN,Biden,45%,Biden,45%,Trump,49%
 Jan. 26-29,"1,260",RV,Emerson College,,Biden,37%,Biden,37%,Trump,42%
 Jan. 26-29,"1,260",RV,Emerson College,,Biden,39%,Biden,39%,Trump,41%
 Jan. 26-29,"1,260",RV,Emerson College,,Biden,37%,Biden,37%,Haley,38%
