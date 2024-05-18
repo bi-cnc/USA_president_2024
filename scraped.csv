@@ -1,7 +1,14 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+May 13-16,"1,023",LV,Echelon Insights,,Biden,38%,Biden,38%,Trump,43%
+May 13-16,"1,023",LV,Echelon Insights,,Biden,46%,Biden,46%,Trump,49%
 May 12-14,"1,586",RV,YouGov,The Economist,Biden,41%,Biden,41%,Trump,42%
+May 10-14,"1,721",LV,McLaughlin & Associates,America's New Majority ProjectAmerica's New Majority Projectis a partisan sponsor for the Republican Party.,Biden,40%,Biden,40%,Trump,41%
+May 10-14,"2,000",RV,McLaughlin & Associates,America's New Majority ProjectAmerica's New Majority Projectis a partisan sponsor for the Republican Party.,Biden,38%,Biden,38%,Trump,39%
+May 10-14,"1,721",LV,McLaughlin & Associates,America's New Majority ProjectAmerica's New Majority Projectis a partisan sponsor for the Republican Party.,Biden,47%,Biden,47%,Trump,47%
+May 10-14,"2,000",RV,McLaughlin & Associates,America's New Majority ProjectAmerica's New Majority Projectis a partisan sponsor for the Republican Party.,Biden,45%,Biden,45%,Trump,46%
 May 7-14,"3,208",RV,Ipsos,Reuters,Biden,40%,Biden,40%,Trump,40%
 May 7-14,"3,208",RV,Ipsos,Reuters,Biden,46%,Biden,46%,Trump,46%
+May 13,"1,155",LV,Redfield & Wilton Strategies,,Biden,43%,Biden,43%,Trump,42%
 May 10-13,"1,198",RV,YouGov,Yahoo News,Biden,45%,Biden,45%,Trump,45%
 May 10-13,"1,126",RV,Beacon Research/Shaw & Company Research,Fox News,Biden,48%,Biden,48%,Trump,49%
 May 10-13,"1,126",RV,Beacon Research/Shaw & Company Research,Fox News,Biden,40%,Biden,40%,Trump,43%
@@ -11,6 +18,3 @@ May 10-12,"10,243",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,44%
 May 7-9,"4,000",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,43%
 May 6-9,"2,000",LV,RMG Research,,Biden,44%,Biden,44%,Trump,42%
 May 6-9,"2,000",LV,RMG Research,,Biden,42%,Biden,42%,Trump,39%
-May 3-8,"2,867",LV,Big Village,,Biden,42%,Biden,42%,Trump,41%
-May 3-8,"3,229",RV,Big Village,,Biden,39%,Biden,39%,Trump,39%
-May 3-8,"4,040",A,Big Village,,Biden,34%,Biden,34%,Trump,36%
