@@ -1,4 +1,10 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+May 30-31,"2,556",A,Ipsos,Reuters,Biden,34%,Biden,34%,Trump,33%
+May 30-31,"2,135",RV,Ipsos,Reuters,Biden,39%,Biden,39%,Trump,37%
+May 30-31,"2,556",A,Ipsos,Reuters,Biden,36%,Biden,36%,Trump,36%
+May 30-31,"2,135",RV,Ipsos,Reuters,Biden,41%,Biden,41%,Trump,39%
+May 30-31,"1,006",RV,HarrisX,Forbes,Biden,41%,Biden,41%,Trump,43%
+May 30-31,"1,006",RV,HarrisX,Forbes,Biden,49%,Biden,49%,Trump,51%
 May 26-28,"10,721",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
 May 25-28,"1,547",RV,YouGov,The Economist,Biden,40%,Biden,40%,Trump,41%
 May 24-26,883,LV,Leger,The Canadian Press,Biden,37%,Biden,37%,Trump,39%
@@ -10,4 +16,3 @@ May 21-23,"1,122",RV,Marist College,"NPR,PBS NewsHour",Biden,40%,Biden,40%,Trump
 May 21-23,"1,122",RV,Marist College,"NPR,PBS NewsHour",Biden,50%,Biden,50%,Trump,48%
 May 21-23,"1,100",RV,Emerson College,,Biden,39%,Biden,39%,Trump,44%
 May 21-23,"1,100",RV,Emerson College,,Biden,50%,Biden,50%,Trump,50%
-May 20-22,"4,000",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,44%
