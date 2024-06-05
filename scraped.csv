@@ -1,6 +1,8 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+June 2-4,"1,566",RV,YouGov,The Economist,Biden,42%,Biden,42%,Trump,42%
 May 31-June 2,"10,404",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,44%
 May 31,"2,200",RV,Morning Consult,,Biden,45%,Biden,45%,Trump,44%
+May 30-31,"5,893",A,SurveyMonkey,The 19th,Biden,30%,Biden,30%,Trump,34%
 May 30-31,"2,556",A,Ipsos,Reuters,Biden,34%,Biden,34%,Trump,33%
 May 30-31,"2,135",RV,Ipsos,Reuters,Biden,39%,Biden,39%,Trump,37%
 May 30-31,"2,556",A,Ipsos,Reuters,Biden,36%,Biden,36%,Trump,36%
@@ -11,4 +13,3 @@ May 29-31,"1,675",RV,TIPP Insights,Issues & Insights,Biden,38%,Biden,38%,Trump,3
 May 29-31,"1,675",RV,TIPP Insights,Issues & Insights,Biden,41%,Biden,41%,Trump,41%
 May 28-30,"4,000",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,45%
 May 25-28,"1,547",RV,YouGov,The Economist,Biden,40%,Biden,40%,Trump,41%
-May 25-27,"4,000",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,44%
