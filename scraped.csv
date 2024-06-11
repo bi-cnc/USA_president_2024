@@ -1,5 +1,7 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+June 7-9,"10,260",RV,Morning Consult,,Biden,44%,Biden,44%,Trump,43%
 June 5-7,"1,359",LV,YouGov,CBS News,Biden,49%,Biden,49%,Trump,50%
+June 4-6,"4,000",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,44%
 June 3-6,"1,239",RV,YouGov,Yahoo News,Biden,42%,Biden,42%,Trump,43%
 June 3-6,"1,239",RV,YouGov,Yahoo News,Biden,46%,Biden,46%,Trump,44%
 June 4-5,"1,000",RV,Emerson College,,Biden,38%,Biden,38%,Trump,44%
@@ -7,4 +9,3 @@ June 4-5,"1,000",RV,Emerson College,,Biden,50%,Biden,50%,Trump,50%
 June 2-4,"1,566",RV,YouGov,The Economist,Biden,42%,Biden,42%,Trump,42%
 May 23-June 4,"1,775",LV,ActiVote,,Biden,42%,Biden,42%,Trump,45%
 May 23-June 4,"1,671",LV,ActiVote,,Biden,48%,Biden,48%,Trump,52%
-May 31-June 2,"10,404",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,44%
