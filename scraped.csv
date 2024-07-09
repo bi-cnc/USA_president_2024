@@ -1,55 +1,23 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
-July 2-3,"1,500",LV,Cygnal,,Biden,43%,Biden,43%,Trump,48%
-July 2-3,"1,500",LV,Cygnal,,Biden,38%,Biden,38%,Trump,44%
+July 7-8,"1,370",RV,Emerson College,,Shapiro,38%,Shapiro,38%,Trump,46%
+July 7-8,"1,370",RV,Emerson College,,Warren,39%,Warren,39%,Trump,49%
+July 7-8,"1,370",RV,Emerson College,,Gore,42%,Gore,42%,Trump,47%
+July 7-8,"1,370",RV,Emerson College,,H. Clinton,41%,H. Clinton,41%,Trump,48%
+July 7-8,"1,370",RV,Emerson College,,Sanders,42%,Sanders,42%,Trump,48%
+July 7-8,"1,370",RV,Emerson College,,Buttigieg,39%,Buttigieg,39%,Trump,49%
+July 7-8,"1,370",RV,Emerson College,,Whitmer,38%,Whitmer,38%,Trump,48%
+July 7-8,"1,370",RV,Emerson College,,Newsom,40%,Newsom,40%,Trump,48%
+July 7-8,"1,370",RV,Emerson College,,Harris,43%,Harris,43%,Trump,49%
+July 7-8,"1,370",RV,Emerson College,,Biden,40%,Biden,40%,Trump,44%
+July 7-8,"1,370",RV,Emerson College,,Biden,50%,Biden,50%,Trump,50%
+July 5-7,"11,323",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
+July 2-6,"1,000",LV,Bendixen & Amandi International,,H. Clinton,43%,H. Clinton,43%,Trump,41%
+July 2-6,"1,000",LV,Bendixen & Amandi International,,Newsom,37%,Newsom,37%,Trump,40%
+July 2-6,"1,000",LV,Bendixen & Amandi International,,Whitmer,36%,Whitmer,36%,Trump,40%
+July 2-6,"1,000",LV,Bendixen & Amandi International,,Harris,42%,Harris,42%,Trump,41%
+July 2-6,"1,000",LV,Bendixen & Amandi International,,Biden,42%,Biden,42%,Trump,43%
+July 2-4,"4,000",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
+June 28-July 4,"6,199",A,PureSpectrum,The Civic Health and Institutions Project,Biden,31%,Biden,31%,Trump,34%
 July 1-3,"1,000",LV,J.L. Partners,DailyMail.com,Biden,42%,Biden,42%,Trump,47%
 July 1-3,"1,000",LV,J.L. Partners,DailyMail.com,Harris,38%,Harris,38%,Trump,49%
 July 1-3,"1,000",LV,J.L. Partners,DailyMail.com,Biden,37%,Biden,37%,Trump,43%
-July 1-2,"1,070",A,Ipsos,Reuters,Pritzker,29%,Pritzker,29%,Trump,37%
-July 1-2,"1,070",A,Ipsos,Reuters,Whitmer,32%,Whitmer,32%,Trump,38%
-July 1-2,"1,070",A,Ipsos,Reuters,Beshear,31%,Beshear,31%,Trump,37%
-July 1-2,"1,070",A,Ipsos,Reuters,Newsom,34%,Newsom,34%,Trump,38%
-July 1-2,"1,070",A,Ipsos,Reuters,M. Obama,47%,M. Obama,47%,Trump,35%
-July 1-2,"1,070",A,Ipsos,Reuters,Harris,38%,Harris,38%,Trump,39%
-July 1-2,"1,070",A,Ipsos,Reuters,Biden,36%,Biden,36%,Trump,36%
-July 1-2,892,RV,Ipsos,Reuters,Newsom,39%,Newsom,39%,Trump,42%
-July 1-2,892,RV,Ipsos,Reuters,Pritzker,34%,Pritzker,34%,Trump,40%
-July 1-2,892,RV,Ipsos,Reuters,Whitmer,36%,Whitmer,36%,Trump,41%
-July 1-2,892,RV,Ipsos,Reuters,Beshear,36%,Beshear,36%,Trump,40%
-July 1-2,892,RV,Ipsos,Reuters,Harris,42%,Harris,42%,Trump,43%
-July 1-2,892,RV,Ipsos,Reuters,M. Obama,50%,M. Obama,50%,Trump,39%
-July 1-2,892,RV,Ipsos,Reuters,Biden,40%,Biden,40%,Trump,40%
-June 30-July 2,"1,392",RV,YouGov,The Economist,Biden,40%,Biden,40%,Trump,42%
-June 29-July 2,"1,500",RV,"Fabrizio, Lee & Associates/GBAO",The Wall Street Journal,Biden,36%,Biden,36%,Trump,42%
-June 29-July 2,"1,500",RV,"Fabrizio, Lee & Associates/GBAO",The Wall Street Journal,Biden,42%,Biden,42%,Trump,48%
-June 28-July 2,"2,815",LV,YouGov,CBS News,Biden,40%,Biden,40%,Trump,44%
-June 28-July 2,"2,815",LV,YouGov,CBS News,Biden,48%,Biden,48%,Trump,50%
-June 28-July 2,"1,532",LV,The New York Times/Siena College,,Biden,37%,Biden,37%,Trump,42%
-June 28-July 2,"1,532",LV,The New York Times/Siena College,,Biden,43%,Biden,43%,Trump,49%
-June 28-July 2,"1,532",RV,The New York Times/Siena College,,Biden,33%,Biden,33%,Trump,40%
-June 28-July 2,"1,532",RV,The New York Times/Siena College,,Biden,41%,Biden,41%,Trump,49%
-June 28-July 1,"1,176",RV,YouGov,Yahoo News,Harris,45%,Harris,45%,Trump,47%
-June 28-July 1,"1,176",RV,YouGov,Yahoo News,Biden,43%,Biden,43%,Trump,45%
-June 28-July 1,"1,176",RV,YouGov,Yahoo News,Biden,40%,Biden,40%,Trump,44%
-June 29-30,869,LV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Biden,39%,Biden,39%,Trump,42%
-June 29-30,961,RV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Biden,37%,Biden,37%,Trump,41%
-June 29-30,869,LV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Biden,44%,Biden,44%,Trump,46%
-June 29-30,961,RV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Biden,42%,Biden,42%,Trump,44%
-June 28-30,"1,000",RV,Suffolk University,USA Today,Biden,38%,Biden,38%,Trump,41%
-June 28-30,"10,679",RV,Morning Consult,,Biden,43%,Biden,43%,Trump,44%
-June 28-30,"2,090",RV,HarrisX/Harris Poll,Harvard University Center for American Political Studies,Biden,35%,Biden,35%,Trump,43%
-June 28-30,"2,090",RV,HarrisX/Harris Poll,Harvard University Center for American Political Studies,Biden,39%,Biden,39%,Trump,46%
-June 28-30,"2,090",RV,HarrisX/Harris Poll,Harvard University Center for American Political Studies,Biden,48%,Biden,48%,Trump,52%
-June 28-30,"1,500",RV,HarrisX,Forbes,Harris,38%,Harris,38%,Trump,43%
-June 28-30,"1,500",RV,HarrisX,Forbes,Harris,40%,Harris,40%,Trump,43%
-June 28-30,"1,500",RV,HarrisX,Forbes,Harris,47%,Harris,47%,Trump,53%
-June 28-30,"1,500",RV,HarrisX,Forbes,Biden,37%,Biden,37%,Trump,42%
-June 28-30,"1,500",RV,HarrisX,Forbes,Biden,38%,Biden,38%,Trump,43%
-June 28-30,"1,500",RV,HarrisX,Forbes,Biden,48%,Biden,48%,Trump,52%
-June 28-30,"1,274",RV,CNN/SSRS,,Whitmer,42%,Whitmer,42%,Trump,47%
-June 28-30,"1,274",RV,CNN/SSRS,,Buttigieg,43%,Buttigieg,43%,Trump,47%
-June 28-30,"1,274",RV,CNN/SSRS,,Newsom,43%,Newsom,43%,Trump,48%
-June 28-30,"1,274",RV,CNN/SSRS,,Harris,45%,Harris,45%,Trump,47%
-June 28-30,"1,274",RV,CNN/SSRS,,Biden,35%,Biden,35%,Trump,41%
-June 28-30,"1,274",RV,CNN/SSRS,,Biden,43%,Biden,43%,Trump,49%
-June 27-29,"1,029",RV,Patriot Polling,,Biden,41%,Biden,41%,Trump,44%
-June 27-29,"4,000",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
