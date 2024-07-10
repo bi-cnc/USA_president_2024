@@ -1,4 +1,6 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+July 7-9,"1,443",RV,YouGov,The Economist,Harris,38%,Harris,38%,Trump,42%
+July 7-9,"1,443",RV,YouGov,The Economist,Biden,40%,Biden,40%,Trump,43%
 July 7-8,"1,370",RV,Emerson College,,Shapiro,38%,Shapiro,38%,Trump,46%
 July 7-8,"1,370",RV,Emerson College,,Warren,39%,Warren,39%,Trump,49%
 July 7-8,"1,370",RV,Emerson College,,Gore,42%,Gore,42%,Trump,47%
@@ -18,6 +20,3 @@ July 2-6,"1,000",LV,Bendixen & Amandi International,,Harris,42%,Harris,42%,Trump
 July 2-6,"1,000",LV,Bendixen & Amandi International,,Biden,42%,Biden,42%,Trump,43%
 July 2-4,"4,000",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
 June 28-July 4,"6,199",A,PureSpectrum,The Civic Health and Institutions Project,Biden,31%,Biden,31%,Trump,34%
-July 1-3,"1,000",LV,J.L. Partners,DailyMail.com,Biden,42%,Biden,42%,Trump,47%
-July 1-3,"1,000",LV,J.L. Partners,DailyMail.com,Harris,38%,Harris,38%,Trump,49%
-July 1-3,"1,000",LV,J.L. Partners,DailyMail.com,Biden,37%,Biden,37%,Trump,43%
