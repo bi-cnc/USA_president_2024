@@ -1,6 +1,11 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
 July 7-9,"1,443",RV,YouGov,The Economist,Harris,38%,Harris,38%,Trump,42%
 July 7-9,"1,443",RV,YouGov,The Economist,Biden,40%,Biden,40%,Trump,43%
+July 5-9,"2,041",RV,Ipsos,"The Washington Post,ABC News",Harris,49%,Harris,49%,Trump,47%
+July 5-9,"2,041",RV,Ipsos,"The Washington Post,ABC News",Biden,42%,Biden,42%,Trump,43%
+July 5-9,"2,041",RV,Ipsos,"The Washington Post,ABC News",Biden,46%,Biden,46%,Trump,46%
+July 8,"1,101",LV,Redfield & Wilton Strategies,,Harris,37%,Harris,37%,Trump,44%
+July 8,"1,101",LV,Redfield & Wilton Strategies,,Biden,42%,Biden,42%,Trump,43%
 July 7-8,"1,370",RV,Emerson College,,Shapiro,38%,Shapiro,38%,Trump,46%
 July 7-8,"1,370",RV,Emerson College,,Warren,39%,Warren,39%,Trump,49%
 July 7-8,"1,370",RV,Emerson College,,Gore,42%,Gore,42%,Trump,47%
