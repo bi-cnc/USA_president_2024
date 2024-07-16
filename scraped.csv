@@ -1,6 +1,16 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
-July 8-11,"2,300",LV,Noble Predictive Insights,The Center Square,Biden,40%,Biden,40%,Trump,43%
-July 8-11,"2,300",LV,Noble Predictive Insights,The Center Square,Biden,43%,Biden,43%,Trump,46%
+July 15,"2,045",RV,Morning Consult,,Harris,45%,Harris,45%,Trump,46%
+July 15,"2,045",RV,Morning Consult,,Biden,45%,Biden,45%,Trump,46%
+July 13-14,"2,426",LV,3W Insights,WelcomePACWelcomePACis a partisan sponsor for the Democratic Party.,Biden,43%,Biden,43%,Trump,47%
+July 12-14,"11,328",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
+July 8-13,"4,616",LV,3W Insights,WelcomePACWelcomePACis a partisan sponsor for the Democratic Party.,Biden,43%,Biden,43%,Trump,46%
+July 9-11,"4,000",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
+July 8-11,"2,535",RV,Noble Predictive Insights,The Center Square,Harris,43%,Harris,43%,Trump,47%
+July 8-11,"2,535",RV,Noble Predictive Insights,The Center Square,Biden,38%,Biden,38%,Trump,42%
+July 8-11,"2,535",RV,Noble Predictive Insights,The Center Square,Biden,42%,Biden,42%,Trump,45%
+July 8-11,"2,295",LV,Noble Predictive Insights,The Center Square,Harris,44%,Harris,44%,Trump,48%
+July 8-11,"2,295",LV,Noble Predictive Insights,The Center Square,Biden,40%,Biden,40%,Trump,43%
+July 8-11,"2,295",LV,Noble Predictive Insights,The Center Square,Biden,43%,Biden,43%,Trump,46%
 July 9-10,"1,174",RV,Marist College,"NPR,PBS NewsHour",Newsom,50%,Newsom,50%,Trump,48%
 July 9-10,"1,174",RV,Marist College,"NPR,PBS NewsHour",Whitmer,49%,Whitmer,49%,Trump,49%
 July 9-10,"1,174",RV,Marist College,"NPR,PBS NewsHour",Harris,50%,Harris,50%,Trump,49%
@@ -11,31 +21,3 @@ July 7-10,"1,210",RV,Beacon Research/Shaw & Company Research,Fox News,Whitmer,48
 July 7-10,"1,210",RV,Beacon Research/Shaw & Company Research,Fox News,Harris,48%,Harris,48%,Trump,49%
 July 7-10,"1,210",RV,Beacon Research/Shaw & Company Research,Fox News,Biden,48%,Biden,48%,Trump,49%
 July 7-10,"1,210",RV,Beacon Research/Shaw & Company Research,Fox News,Biden,41%,Biden,41%,Trump,44%
-July 7-9,"1,443",RV,YouGov,The Economist,Harris,38%,Harris,38%,Trump,42%
-July 7-9,"1,443",RV,YouGov,The Economist,Biden,40%,Biden,40%,Trump,43%
-July 7-9,800,RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,45%,Harris,45%,Trump,47%
-July 7-9,800,RV,Hart Research Associates/Public Opinion Strategies,NBC News,Biden,37%,Biden,37%,Trump,40%
-July 7-9,800,RV,Hart Research Associates/Public Opinion Strategies,NBC News,Biden,43%,Biden,43%,Trump,45%
-July 5-9,"2,041",RV,Ipsos,"The Washington Post,ABC News",Harris,49%,Harris,49%,Trump,47%
-July 5-9,"2,041",RV,Ipsos,"The Washington Post,ABC News",Biden,42%,Biden,42%,Trump,43%
-July 5-9,"2,041",RV,Ipsos,"The Washington Post,ABC News",Biden,46%,Biden,46%,Trump,46%
-July 8,"1,101",LV,Redfield & Wilton Strategies,,Harris,37%,Harris,37%,Trump,44%
-July 8,"1,101",LV,Redfield & Wilton Strategies,,Biden,42%,Biden,42%,Trump,43%
-July 7-8,"1,370",RV,Emerson College,,Shapiro,38%,Shapiro,38%,Trump,46%
-July 7-8,"1,370",RV,Emerson College,,Warren,39%,Warren,39%,Trump,49%
-July 7-8,"1,370",RV,Emerson College,,Gore,42%,Gore,42%,Trump,47%
-July 7-8,"1,370",RV,Emerson College,,H. Clinton,41%,H. Clinton,41%,Trump,48%
-July 7-8,"1,370",RV,Emerson College,,Sanders,42%,Sanders,42%,Trump,48%
-July 7-8,"1,370",RV,Emerson College,,Buttigieg,39%,Buttigieg,39%,Trump,49%
-July 7-8,"1,370",RV,Emerson College,,Whitmer,38%,Whitmer,38%,Trump,48%
-July 7-8,"1,370",RV,Emerson College,,Newsom,40%,Newsom,40%,Trump,48%
-July 7-8,"1,370",RV,Emerson College,,Harris,43%,Harris,43%,Trump,49%
-July 7-8,"1,370",RV,Emerson College,,Biden,40%,Biden,40%,Trump,44%
-July 7-8,"1,370",RV,Emerson College,,Biden,50%,Biden,50%,Trump,50%
-July 5-7,"11,323",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
-July 1-7,"7,729",RV,Pew Research Center,,Biden,47%,Biden,47%,Trump,50%
-July 1-7,"7,729",RV,Pew Research Center,,Biden,40%,Biden,40%,Trump,44%
-June 28-July 7,"4,347",RV,Lord Ashcroft Polls,,Biden,41%,Biden,41%,Trump,39%
-June 28-July 7,"4,347",RV,Lord Ashcroft Polls,,Biden,44%,Biden,44%,Trump,42%
-June 28-July 7,"5,016",A,Lord Ashcroft Polls,,Biden,38%,Biden,38%,Trump,38%
-June 28-July 7,"5,016",A,Lord Ashcroft Polls,,Biden,41%,Biden,41%,Trump,41%
