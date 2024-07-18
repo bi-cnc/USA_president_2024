@@ -1,5 +1,12 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+July 15-16,992,RV,Ipsos,Reuters,Harris,44%,Harris,44%,Trump,44%
+July 15-16,"1,202",A,Ipsos,Reuters,Harris,39%,Harris,39%,Trump,40%
+July 15-16,992,RV,Ipsos,Reuters,Biden,39%,Biden,39%,Trump,40%
+July 15-16,"1,202",A,Ipsos,Reuters,Biden,34%,Biden,34%,Trump,36%
+July 15-16,"1,202",A,Ipsos,Reuters,Biden,36%,Biden,36%,Trump,39%
 July 15-16,992,RV,Ipsos,Reuters,Biden,41%,Biden,41%,Trump,43%
+July 15-16,"2,000",RV,Emerson College,Democrats for the Next Generation (super PAC)Democrats for the Next Generation (super PAC)is a partisan sponsor for the Democratic Party.,Biden,38%,Biden,38%,Trump,44%
+July 15-16,"2,000",RV,Emerson College,Democrats for the Next Generation (super PAC)Democrats for the Next Generation (super PAC)is a partisan sponsor for the Democratic Party.,Biden,42%,Biden,42%,Trump,46%
 July 13-16,"1,404",RV,YouGov,The Economist,Harris,39%,Harris,39%,Trump,44%
 July 13-16,"1,404",RV,YouGov,The Economist,Biden,41%,Biden,41%,Trump,43%
 July 15,"2,621",LV,Redfield & Wilton Strategies,,Biden,42%,Biden,42%,Trump,43%
@@ -9,6 +16,10 @@ July 13-15,"1,918",RV,HarrisX,Forbes,Harris,48%,Harris,48%,Trump,52%
 July 13-15,"1,918",RV,HarrisX,Forbes,Biden,39%,Biden,39%,Trump,43%
 July 13-15,"1,918",RV,HarrisX,Forbes,Biden,40%,Biden,40%,Trump,44%
 July 13-15,"1,918",RV,HarrisX,Forbes,Biden,49%,Biden,49%,Trump,51%
+July 12-15,"1,098",LV,SurveyUSA,Joe Cassidy,Newsom,35%,Newsom,35%,Trump,46%
+July 12-15,"1,098",LV,SurveyUSA,Joe Cassidy,M. Obama,45%,M. Obama,45%,Trump,45%
+July 12-15,"1,098",LV,SurveyUSA,Joe Cassidy,Harris,42%,Harris,42%,Trump,45%
+July 12-15,"1,098",LV,SurveyUSA,Joe Cassidy,Biden,43%,Biden,43%,Trump,44%
 July 7-15,"1,000",LV,ActiVote,,Biden,41%,Biden,41%,Trump,43%
 July 7-15,"1,000",LV,ActiVote,,Biden,50%,Biden,50%,Trump,51%
 July 13-14,"2,426",LV,3W Insights,WelcomePACWelcomePACis a partisan sponsor for the Democratic Party.,Biden,43%,Biden,43%,Trump,47%
