@@ -1,4 +1,10 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+July 16-18,"2,240",LV,YouGov,CBS News,Harris,48%,Harris,48%,Trump,51%
+July 16-18,"2,241",LV,YouGov,CBS News,Biden,47%,Biden,47%,Trump,52%
+July 17,800,LV,SoCal Research,On Point Politics,Harris,44%,Harris,44%,Trump,52%
+July 17,800,LV,SoCal Research,On Point Politics,Biden,45%,Biden,45%,Trump,51%
+July 15-17,"2,725",LV,RMG Research,,Biden,46%,Biden,46%,Trump,51%
+July 15-17,"9,414",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,46%
 July 15-16,992,RV,Ipsos,Reuters,Harris,44%,Harris,44%,Trump,44%
 July 15-16,"1,202",A,Ipsos,Reuters,Harris,39%,Harris,39%,Trump,40%
 July 15-16,992,RV,Ipsos,Reuters,Biden,39%,Biden,39%,Trump,40%
@@ -30,16 +36,3 @@ July 12-14,"2,019",A,Big Village,,Harris,30%,Harris,30%,Trump,37%
 July 12-14,"1,499",LV,Big Village,,Biden,41%,Biden,41%,Trump,41%
 July 12-14,"1,698",RV,Big Village,,Biden,37%,Biden,37%,Trump,39%
 July 12-14,"2,019",A,Big Village,,Biden,33%,Biden,33%,Trump,36%
-July 8-13,"4,616",LV,3W Insights,WelcomePACWelcomePACis a partisan sponsor for the Democratic Party.,Biden,43%,Biden,43%,Trump,46%
-July 7-13,"2,100",LV,Manhattan Institute,,Harris,46%,Harris,46%,Trump,48%
-July 7-13,"2,100",LV,Manhattan Institute,,Whitmer,43%,Whitmer,43%,Trump,47%
-July 7-13,"2,100",LV,Manhattan Institute,,Biden,45%,Biden,45%,Trump,48%
-July 7-13,"2,100",LV,Manhattan Institute,,Harris,36%,Harris,36%,Trump,44%
-July 7-13,"2,100",LV,Manhattan Institute,,Biden,40%,Biden,40%,Trump,44%
-July 9-11,"4,000",RV,Morning Consult,,Biden,42%,Biden,42%,Trump,44%
-July 8-11,"2,535",RV,Noble Predictive Insights,The Center Square,Harris,43%,Harris,43%,Trump,47%
-July 8-11,"2,535",RV,Noble Predictive Insights,The Center Square,Biden,38%,Biden,38%,Trump,42%
-July 8-11,"2,535",RV,Noble Predictive Insights,The Center Square,Biden,42%,Biden,42%,Trump,45%
-July 8-11,"2,295",LV,Noble Predictive Insights,The Center Square,Harris,44%,Harris,44%,Trump,48%
-July 8-11,"2,295",LV,Noble Predictive Insights,The Center Square,Biden,40%,Biden,40%,Trump,43%
-July 8-11,"2,295",LV,Noble Predictive Insights,The Center Square,Biden,43%,Biden,43%,Trump,46%
