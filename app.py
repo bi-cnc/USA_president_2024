@@ -47,14 +47,7 @@ def transform_date_corrected(date_str):
 table['Date'] = table['Date'].apply(transform_date_corrected)
 table.rename(columns={"Date":"Datum"},inplace=True)
 
-biden_column = st.column_config.TextColumn(label="", width="small")
-trump_column = st.column_config.TextColumn(label="", width="small")
-percent_column = st.column_config.TextColumn(label="", width="small")
-pollster_column = st.column_config.TextColumn(label="Agentura",width="medium")
-vzorek_column = st.column_config.TextColumn(label="Počet dotazovaných",width="medium")
-
-
-table = table[["Datum","Candidate 1","Percentage 1","Percentage 3","Candidate 3","Pollster","Sample"]]
+table = table[["Datum","Candidate 1","Percentage 1","Percentage 3","Candidate 3","Pollster","Sample","Sample Type"]]
 
 # Přidání mezery mezi číslo a symbol procenta
 table['Percentage 1'] = table['Percentage 1'].apply(lambda x: x[:-1])
@@ -66,7 +59,14 @@ table["Percentage 3"] = table["Percentage 3"].astype(str) + " %"
 
 # Změna formátu sloupce "Sample" z "1,906" na "1 906"
 table["Sample"] = table["Sample"].str.replace(',', ' ')
-table = table.iloc[:10]  # Omezíme na prvních 18 řádků
+
+table.rename(columns={"Percentage 1":"Harris","Percentage 3":"Trump"},inplace=True)
+table = table[["Datum","Harris","Trump","Pollster","Sample","Sample Type"]]
+
+table['Sample Type'] = table['Sample Type'].replace({'LV': 'pravděpodobní voliči', 'RV': 'registrovaní voliči', 'A': 'dospělá populace'})
+table["Agentura"] = table["Pollster"] + " (" + table["Sample"] + " resp., " + table["Sample Type"]
+
+table = table[["Datum","Harris","Trump","Agentura"]]
 
 # Funkce pro modrou barvu
 def color_percentage_blue(val, max_intensity=255):
@@ -86,15 +86,21 @@ def color_percentage_red(val, max_intensity=255):
 max_blue_intensity = 140
 max_red_intensity = 140
 
+
 # Použití stylování na DataFrame
-styled_table = table.style.applymap(lambda x: color_percentage_blue(x, max_intensity=max_blue_intensity), subset=['Percentage 1'])\
-                          .applymap(lambda x: color_percentage_red(x, max_intensity=max_red_intensity), subset=['Percentage 3'])
+styled_table = table.style.applymap(lambda x: color_percentage_blue(x, max_intensity=max_blue_intensity), subset=['Harris'])\
+                          .applymap(lambda x: color_percentage_red(x, max_intensity=max_red_intensity), subset=['Trump'])
+
 
 
 st.title("Předvolební průzkumy v USA")
 st.text("")
-st.dataframe(styled_table,hide_index=True,column_config={"Candidate 1":biden_column,"Candidate 3": trump_column,"Percentage 1": percent_column,
-                                                  "Percentage 3": percent_column,"Pollster":pollster_column,"Sample":vzorek_column},height=388)
+harris_column = st.column_config.TextColumn(label="Harris", width="small")
+trump_column = st.column_config.TextColumn(label="Trump", width="small")
+pollster_column = st.column_config.TextColumn(label="Agentura",width="large")
+
+st.dataframe(styled_table,hide_index=True,column_config={"Harris": harris_column,
+                                                  "Trump": trump_column,"Agentura":pollster_column},height=500)
 
 import datetime
 # Získání aktuálního data
