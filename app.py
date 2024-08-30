@@ -90,12 +90,12 @@ table["Náskok"] = table.apply(lambda row: f"Harris + {int(row['Harris_numeric']
                                            if row['Harris_numeric'] > row['Trump_numeric'] 
                                            else f"Trump + {int(row['Trump_numeric'] - row['Harris_numeric'])}", axis=1)
 
-# Funkce pro podbarvení na základě vedoucího kandidáta s jemnějšími barvami
+# Funkce pro podbarvení na základě vedoucího kandidáta s velmi světlými barvami
 def color_based_on_leader(val):
     if "Harris" in val:
-        return 'background-color: rgb(200, 230, 250); text-align: center;'  # Světlejší modrá pro Harrise
+        return 'background-color: rgb(225, 245, 255); text-align: center;'  # Velmi světle modrá pro Harrise
     elif "Trump" in val:
-        return 'background-color: rgb(255, 220, 220); text-align: center;'  # Světlejší červená pro Trumpa
+        return 'background-color: rgb(255, 240, 240); text-align: center;'  # Velmi světle červená pro Trumpa
     return ''
 
 
