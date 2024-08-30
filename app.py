@@ -8,6 +8,17 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import streamlit as st
 
+# Přidání stylu pro zvětšení šířky datového rámce
+st.markdown(
+    """
+    <style>
+    .css-1ex1afd {  /* Identifikátor může být jiný, záleží na verzi Streamlit */
+        width: 1200px !important;  /* Nastavení šířky dle potřeby */
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 # Load the data
 def load_data():
