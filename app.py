@@ -64,7 +64,7 @@ table.rename(columns={"Percentage 1":"Harris","Percentage 3":"Trump"},inplace=Tr
 table = table[["Datum","Harris","Trump","Pollster","Sample","Sample Type"]]
 
 table['Sample Type'] = table['Sample Type'].replace({'LV': 'pravděpodobní voliči', 'RV': 'registrovaní voliči', 'A': 'dospělá populace'})
-table["Agentura"] = table["Pollster"] + " (" + table["Sample"] + " resp., " + table["Sample Type"]
+table["Agentura"] = table["Pollster"] + " (" + table["Sample"] + " resp., " + table["Sample Type"] + " )"
 
 table = table[["Datum","Harris","Trump","Agentura"]]
 
