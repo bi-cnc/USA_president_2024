@@ -1,5 +1,9 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Aug. 25-29,"2,191",LV,Outward Intelligence,,Harris,50%,Harris,50%,Trump,44%
+Aug. 25-29,"2,191",LV,Outward Intelligence,,Harris,53%,Harris,53%,Trump,47%
 Aug. 25-28,"1,000",LV,Suffolk University,USA Today,Harris,48%,Harris,48%,Trump,43%
+Aug. 24-28,"1,500",RV,"Fabrizio, Lee & Associates/GBAO",The Wall Street Journal,Harris,48%,Harris,48%,Trump,47%
+Aug. 24-28,"1,500",RV,"Fabrizio, Lee & Associates/GBAO",The Wall Street Journal,Harris,47%,Harris,47%,Trump,45%
 Aug. 23-28,"1,511",LV,Big Village,,Harris,50%,Harris,50%,Trump,43%
 Aug. 23-28,"1,681",RV,Big Village,,Harris,48%,Harris,48%,Trump,42%
 Aug. 23-28,"2,020",A,Big Village,,Harris,45%,Harris,45%,Trump,39%
@@ -7,12 +11,14 @@ Aug. 23-28,"1,511",LV,Big Village,,Harris,48%,Harris,48%,Trump,41%
 Aug. 23-28,"1,681",RV,Big Village,,Harris,45%,Harris,45%,Trump,40%
 Aug. 23-28,"2,020",A,Big Village,,Harris,42%,Harris,42%,Trump,37%
 Aug. 21-28,"3,562",RV,Ipsos,Reuters,Harris,45%,Harris,45%,Trump,41%
-Aug. 26-27,"1,094",LV,Quantus Polls and News,,Harris,49%,Harris,49%,Trump,47%
+Aug. 26-27,"1,094",LV,Quantus Polls and News,TrendingPoliticsTrendingPoliticsis a partisan sponsor for the Republican Party.,Harris,49%,Harris,49%,Trump,47%
 Aug. 25-27,"1,368",RV,YouGov,The Economist,Harris,47%,Harris,47%,Trump,45%
-Aug. 22-27,"1,200",RV,YouGov,Yahoo News,Harris,44%,Harris,44%,Trump,42%
-Aug. 22-27,"1,788",A,YouGov,Yahoo News,Harris,39%,Harris,39%,Trump,36%
-Aug. 22-27,"1,197",RV,YouGov,Yahoo News,Harris,47%,Harris,47%,Trump,46%
-Aug. 22-27,"1,194",RV,YouGov,Yahoo News,Harris,46%,Harris,46%,Trump,45%
+Aug. 23-27,"1,611",LV,Quinnipiac University,,Harris,49%,Harris,49%,Trump,48%
+Aug. 23-27,"1,611",LV,Quinnipiac University,,Harris,49%,Harris,49%,Trump,47%
+Aug. 22-26,"1,200",RV,YouGov,Yahoo News,Harris,44%,Harris,44%,Trump,42%
+Aug. 22-26,"1,788",A,YouGov,Yahoo News,Harris,39%,Harris,39%,Trump,36%
+Aug. 22-26,"1,197",RV,YouGov,Yahoo News,Harris,47%,Harris,47%,Trump,46%
+Aug. 22-26,"1,194",RV,YouGov,Yahoo News,Harris,46%,Harris,46%,Trump,45%
 Aug. 23-25,"7,818",RV,Morning Consult,,Harris,48%,Harris,48%,Trump,44%
 Aug. 23-25,856,LV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Harris,49%,Harris,49%,Trump,45%
 Aug. 23-25,929,RV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Harris,47%,Harris,47%,Trump,43%
@@ -20,8 +26,3 @@ Aug. 23-25,"1,031",LV,Echelon Insights,,Biden,46%,Biden,46%,Trump,50%
 Aug. 23-25,"1,031",LV,Echelon Insights,,Harris,48%,Harris,48%,Trump,48%
 Aug. 23-25,"1,031",LV,Echelon Insights,,Harris,47%,Harris,47%,Trump,45%
 Aug. 23-25,"1,031",LV,Echelon Insights,,Harris,48%,Harris,48%,Trump,49%
-Aug. 24,"1,190",LV,Kaplan Strategies,,Harris,52%,Harris,52%,Trump,45%
-Aug. 24,"1,257",RV,Kaplan Strategies,,Harris,50%,Harris,50%,Trump,46%
-Aug. 19-23,"1,758",RV,Angus Reid Global,,Harris,47%,Harris,47%,Trump,42%
-Aug. 19-23,"1,758",RV,Angus Reid Global,,Harris,45%,Harris,45%,Trump,40%
-Aug. 15-23,"1,000",LV,ActiVote,,Harris,53%,Harris,53%,Trump,47%
