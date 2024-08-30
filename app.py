@@ -87,7 +87,7 @@ table["Trump_numeric"] = table["Trump"].str.replace(' %', '').astype(float)
 
 # Výpočet rozdílu a určení vedoucího kandidáta s formátováním
 table["Náskok"] = table.apply(
-    lambda row: "-" if row['Harris_numeric'] == row['Trump_numeric'] 
+    lambda row: "" if row['Harris_numeric'] == row['Trump_numeric'] 
     else (f"Harris + {int(row['Harris_numeric'] - row['Trump_numeric'])}" 
           if row['Harris_numeric'] > row['Trump_numeric'] 
           else f"Trump + {int(row['Trump_numeric'] - row['Harris_numeric'])}"), axis=1)
