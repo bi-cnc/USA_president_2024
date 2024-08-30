@@ -109,14 +109,14 @@ table.drop(["Harris_numeric", "Trump_numeric"], axis=1, inplace=True)
 table = table[["Datum", "Harris", "Trump", "Náskok", "Agentura"]]
 
 
-# Funkce pro modrou barvu
+# Funkce pro modrou barvu se zarovnáním na střed
 def color_percentage_blue(val, max_intensity=255):
     percentage = int(val.strip(' %'))
     intensity = max_intensity - int((percentage / 100) ** 2 * max_intensity)
     color = f'rgb({intensity}, {intensity}, 255)'  # Světlejší modrá pro vyšší procenta
     return f'background-color: {color}; color: white; text-align: center;'
 
-# Funkce pro červenou barvu
+# Funkce pro červenou barvu se zarovnáním na střed
 def color_percentage_red(val, max_intensity=255):
     percentage = int(val.strip(' %'))
     intensity = max_intensity - int((percentage / 100) ** 2 * max_intensity)
