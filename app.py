@@ -86,9 +86,11 @@ table["Harris_numeric"] = table["Harris"].str.replace(' %', '').astype(float)
 table["Trump_numeric"] = table["Trump"].str.replace(' %', '').astype(float)
 
 # Výpočet rozdílu a určení vedoucího kandidáta s formátováním
-table["Náskok"] = table.apply(lambda row: f"Harris + {int(row['Harris_numeric'] - row['Trump_numeric'])}" 
-                                           if row['Harris_numeric'] > row['Trump_numeric'] 
-                                           else f"Trump + {int(row['Trump_numeric'] - row['Harris_numeric'])}", axis=1)
+table["Náskok"] = table.apply(
+    lambda row: "-" if row['Harris_numeric'] == row['Trump_numeric'] 
+    else (f"Harris + {int(row['Harris_numeric'] - row['Trump_numeric'])}" 
+          if row['Harris_numeric'] > row['Trump_numeric'] 
+          else f"Trump + {int(row['Trump_numeric'] - row['Harris_numeric'])}"), axis=1)
 
 # Funkce pro podbarvení na základě vedoucího kandidáta s velmi světlými barvami
 def color_based_on_leader(val):
@@ -96,8 +98,9 @@ def color_based_on_leader(val):
         return 'background-color: rgb(225, 245, 255); text-align: center;'  # Velmi světle modrá pro Harrise
     elif "Trump" in val:
         return 'background-color: rgb(255, 240, 240); text-align: center;'  # Velmi světle červená pro Trumpa
+    elif val == "-":
+        return ''  # Bez barvy pro rovnost
     return ''
-
 
 # Odebrání dočasných sloupců
 table.drop(["Harris_numeric", "Trump_numeric"], axis=1, inplace=True)
