@@ -100,7 +100,7 @@ trump_column = st.column_config.TextColumn(label="Trump", width="small")
 pollster_column = st.column_config.TextColumn(label="Agentura",width="large")
 
 st.dataframe(styled_table,hide_index=True,column_config={"Harris": harris_column,
-                                                  "Trump": trump_column,"Agentura":pollster_column},height=500)
+                                                  "Trump": trump_column,"Agentura":pollster_column},height=700)
 
 import datetime
 # Získání aktuálního data
