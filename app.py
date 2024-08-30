@@ -79,6 +79,33 @@ table["Agentura"] = table["Pollster"] + " (" + table["Sample"] + " resp., " + ta
 
 table = table[["Datum","Harris","Trump","Agentura"]]
 
+
+
+# Převod procent na číselný formát pro výpočty
+table["Harris_numeric"] = table["Harris"].str.replace(' %', '').astype(float)
+table["Trump_numeric"] = table["Trump"].str.replace(' %', '').astype(float)
+
+# Výpočet rozdílu a určení vedoucího kandidáta s formátováním
+table["Náskok"] = table.apply(lambda row: f"Harris + {int(row['Harris_numeric'] - row['Trump_numeric'])}" 
+                                           if row['Harris_numeric'] > row['Trump_numeric'] 
+                                           else f"Trump + {int(row['Trump_numeric'] - row['Harris_numeric'])}", axis=1)
+
+# Funkce pro podbarvení na základě vedoucího kandidáta s jemnějšími barvami
+def color_based_on_leader(val):
+    if "Harris" in val:
+        return 'background-color: rgb(200, 230, 250); text-align: center;'  # Světlejší modrá pro Harrise
+    elif "Trump" in val:
+        return 'background-color: rgb(255, 220, 220); text-align: center;'  # Světlejší červená pro Trumpa
+    return ''
+
+
+# Odebrání dočasných sloupců
+table.drop(["Harris_numeric", "Trump_numeric"], axis=1, inplace=True)
+
+# Přidání nového sloupce do tabulky
+table = table[["Datum", "Harris", "Trump", "Náskok", "Agentura"]]
+
+
 # Funkce pro modrou barvu
 def color_percentage_blue(val, max_intensity=255):
     percentage = int(val.strip(' %'))
@@ -100,9 +127,8 @@ max_red_intensity = 140
 
 # Použití stylování na DataFrame
 styled_table = table.style.applymap(lambda x: color_percentage_blue(x, max_intensity=max_blue_intensity), subset=['Harris'])\
-                          .applymap(lambda x: color_percentage_red(x, max_intensity=max_red_intensity), subset=['Trump'])
-
-
+                          .applymap(lambda x: color_percentage_red(x, max_intensity=max_red_intensity), subset=['Trump'])\
+                          .applymap(color_based_on_leader, subset=['Náskok'])
 
 st.title("Předvolební průzkumy v USA")
 st.text("")
