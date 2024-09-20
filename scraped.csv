@@ -1,6 +1,14 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Sept. 15-19,"1,880",LV,Outward Intelligence,,Harris,51%,Harris,51%,Trump,45%
+Sept. 15-19,"1,880",LV,Outward Intelligence,,Harris,53%,Harris,53%,Trump,47%
+Sept. 16-17,810,LV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Harris,49%,Harris,49%,Trump,45%
+Sept. 16-17,820,RV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Harris,49%,Harris,49%,Trump,45%
 Sept. 15-17,"1,445",RV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,45%
 Sept. 11-17,"1,000",LV,ActiVote,,Harris,53%,Harris,53%,Trump,47%
+Sept. 14-16,"1,247",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,50%,Harris,50%,Trump,46%
+Sept. 14-16,"1,306",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,50%,Harris,50%,Trump,46%
+Sept. 14-16,"1,247",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,51%,Harris,51%,Trump,49%
+Sept. 14-16,"1,306",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,51%,Harris,51%,Trump,49%
 Sept. 14-16,"1,505",RV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,50%,Harris,50%,Trump,45%
 Sept. 14-16,"1,505",RV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,51%,Harris,51%,Trump,49%
 Sept. 13-16,876,LV,Beacon Research/Shaw & Company Research,Fox News,Harris,50%,Harris,50%,Trump,48%
@@ -30,10 +38,3 @@ Sept. 11-13,"2,772",RV,Ipsos,ABC News,Harris,51%,Harris,51%,Trump,47%
 Sept. 11-13,"3,276",A,Ipsos,ABC News,Harris,51%,Harris,51%,Trump,46%
 Sept. 11-13,"3,018",RV,HarrisX,Forbes,Harris,50%,Harris,50%,Trump,47%
 Sept. 11-13,"3,018",RV,HarrisX,Forbes,Harris,52%,Harris,52%,Trump,48%
-Sept. 12,"1,952",LV,Redfield & Wilton Strategies,,Harris,44%,Harris,44%,Trump,42%
-Sept. 11-12,"1,690",A,Ipsos,Reuters,Harris,43%,Harris,43%,Trump,39%
-Sept. 11-12,"1,405",RV,Ipsos,Reuters,Harris,47%,Harris,47%,Trump,42%
-Sept. 11-12,"1,775",LV,AtlasIntel,,Harris,47%,Harris,47%,Trump,51%
-Sept. 11-12,"1,775",LV,AtlasIntel,,Harris,48%,Harris,48%,Trump,51%
-Sept. 10-12,"10,100",LV,Morning Consult,,Harris,50%,Harris,50%,Trump,45%
-Sept. 9-12,"2,756",LV,RMG Research,Napolitan Institute,Harris,51%,Harris,51%,Trump,47%
