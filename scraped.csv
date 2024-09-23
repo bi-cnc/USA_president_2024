@@ -1,10 +1,13 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Sept. 18-20,"3,129",LV,YouGov,CBS News,Harris,52%,Harris,52%,Trump,48%
 Sept. 16-19,"2,969",LV,RMG Research,Napolitan Institute,Harris,50%,Harris,50%,Trump,48%
 Sept. 15-19,"1,880",LV,Outward Intelligence,,Harris,51%,Harris,51%,Trump,45%
 Sept. 15-19,"1,880",LV,Outward Intelligence,,Harris,53%,Harris,53%,Trump,47%
 Sept. 16-17,810,LV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Harris,49%,Harris,49%,Trump,45%
 Sept. 16-17,820,RV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Harris,49%,Harris,49%,Trump,45%
 Sept. 15-17,"1,445",RV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,45%
+Sept. 13-17,"1,000",RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,47%,Harris,47%,Trump,41%
+Sept. 13-17,"1,000",RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,49%,Harris,49%,Trump,44%
 Sept. 11-17,"1,000",LV,ActiVote,,Harris,53%,Harris,53%,Trump,47%
 Sept. 14-16,"1,247",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,50%,Harris,50%,Trump,46%
 Sept. 14-16,"1,306",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,50%,Harris,50%,Trump,46%
@@ -25,18 +28,3 @@ Sept. 13-15,"11,022",LV,Morning Consult,,Harris,51%,Harris,51%,Trump,45%
 Sept. 11-15,"1,568",LV,Big Village,,Harris,51%,Harris,51%,Trump,43%
 Sept. 11-15,"1,724",RV,Big Village,,Harris,48%,Harris,48%,Trump,43%
 Sept. 11-15,"2,027",A,Big Village,,Harris,45%,Harris,45%,Trump,39%
-Sept. 12-13,"1,283",LV,Data for Progress,,Harris,50%,Harris,50%,Trump,46%
-Sept. 11-13,"1,090",LV,YouGov,Yahoo News,Harris,49%,Harris,49%,Trump,45%
-Sept. 11-13,"1,175",RV,YouGov,Yahoo News,Harris,48%,Harris,48%,Trump,44%
-Sept. 11-13,"1,090",LV,YouGov,Yahoo News,Harris,50%,Harris,50%,Trump,46%
-Sept. 11-13,"1,177",RV,YouGov,Yahoo News,Harris,50%,Harris,50%,Trump,45%
-Sept. 11-13,"1,721",RV,TIPP Insights,,Harris,45%,Harris,45%,Trump,41%
-Sept. 11-13,"1,721",RV,TIPP Insights,,Harris,47%,Harris,47%,Trump,43%
-Sept. 11-13,"2,196",LV,Ipsos,ABC News,Harris,51%,Harris,51%,Trump,46%
-Sept. 11-13,"2,772",RV,Ipsos,ABC News,Harris,50%,Harris,50%,Trump,46%
-Sept. 11-13,"3,276",A,Ipsos,ABC News,Harris,51%,Harris,51%,Trump,45%
-Sept. 11-13,"2,196",LV,Ipsos,ABC News,Harris,52%,Harris,52%,Trump,46%
-Sept. 11-13,"2,772",RV,Ipsos,ABC News,Harris,51%,Harris,51%,Trump,47%
-Sept. 11-13,"3,276",A,Ipsos,ABC News,Harris,51%,Harris,51%,Trump,46%
-Sept. 11-13,"3,018",RV,HarrisX,Forbes,Harris,50%,Harris,50%,Trump,47%
-Sept. 11-13,"3,018",RV,HarrisX,Forbes,Harris,52%,Harris,52%,Trump,48%
