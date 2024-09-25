@@ -1,5 +1,11 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Sept. 21-23,785,LV,Ipsos,Reuters,Harris,50%,Harris,50%,Trump,44%
+Sept. 21-23,871,RV,Ipsos,Reuters,Harris,47%,Harris,47%,Trump,40%
 Sept. 20-22,"11,057",LV,Morning Consult,,Harris,50%,Harris,50%,Trump,45%
+Sept. 19-22,"1,728",LV,Quinnipiac University,,Harris,48%,Harris,48%,Trump,48%
+Sept. 19-22,"1,728",LV,Quinnipiac University,,Harris,47%,Harris,47%,Trump,48%
+Sept. 19-22,"2,074",RV,CNN/SSRS,,Harris,47%,Harris,47%,Trump,47%
+Sept. 19-22,"2,074",LV,CNN/SSRS,,Harris,48%,Harris,48%,Trump,47%
 Sept. 18-20,"3,129",LV,YouGov,CBS News,Harris,52%,Harris,52%,Trump,48%
 Sept. 17-19,"10,528",LV,Morning Consult,,Harris,50%,Harris,50%,Trump,46%
 Sept. 16-19,"2,969",LV,RMG Research,Napolitan Institute,Harris,50%,Harris,50%,Trump,48%
@@ -11,19 +17,3 @@ Sept. 15-17,"1,445",RV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,45%
 Sept. 13-17,"1,000",RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,47%,Harris,47%,Trump,41%
 Sept. 13-17,"1,000",RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,49%,Harris,49%,Trump,44%
 Sept. 11-17,"1,000",LV,ActiVote,,Harris,53%,Harris,53%,Trump,47%
-Sept. 14-16,"11,092",LV,Morning Consult,,Harris,50%,Harris,50%,Trump,45%
-Sept. 14-16,"1,247",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,50%,Harris,50%,Trump,46%
-Sept. 14-16,"1,306",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,50%,Harris,50%,Trump,46%
-Sept. 14-16,"1,247",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,51%,Harris,51%,Trump,49%
-Sept. 14-16,"1,306",LV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,51%,Harris,51%,Trump,49%
-Sept. 14-16,"1,505",RV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,50%,Harris,50%,Trump,45%
-Sept. 14-16,"1,505",RV,HarrisX,George Washington University Society of Presidential Pollsters,Harris,51%,Harris,51%,Trump,49%
-Sept. 13-16,876,LV,Beacon Research/Shaw & Company Research,Fox News,Harris,50%,Harris,50%,Trump,48%
-Sept. 13-16,"1,102",RV,Beacon Research/Shaw & Company Research,Fox News,Harris,50%,Harris,50%,Trump,48%
-Sept. 13-16,"1,707",RV,Angus Reid Global,,Harris,49%,Harris,49%,Trump,45%
-Sept. 11-16,"2,437",LV,The New York Times/Siena College,,Harris,46%,Harris,46%,Trump,46%
-Sept. 11-16,"2,437",RV,The New York Times/Siena College,,Harris,45%,Harris,45%,Trump,46%
-Sept. 11-16,"2,437",RV,The New York Times/Siena College,,Harris,46%,Harris,46%,Trump,47%
-Sept. 11-16,"2,437",LV,The New York Times/Siena College,,Harris,47%,Harris,47%,Trump,47%
-Sept. 11-16,"1,000",LV,J.L. Partners,DailyMail.com,Harris,47%,Harris,47%,Trump,45%
-Sept. 11-16,"1,000",LV,J.L. Partners,DailyMail.com,Harris,43%,Harris,43%,Trump,42%
