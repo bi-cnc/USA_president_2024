@@ -1,6 +1,11 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
 Sept. 22-26,"1,735",LV,Outward Intelligence,,Harris,51%,Harris,51%,Trump,45%
 Sept. 22-26,"1,735",LV,Outward Intelligence,,Harris,53%,Harris,53%,Trump,47%
+Sept. 23-25,"1,005",LV,Echelon Insights,,Harris,49%,Harris,49%,Trump,44%
+Sept. 23-25,"1,005",LV,Echelon Insights,,Harris,52%,Harris,52%,Trump,45%
+Sept. 23-25,"1,524",LV,Big Village,,Harris,50%,Harris,50%,Trump,46%
+Sept. 23-25,"1,663",RV,Big Village,,Harris,49%,Harris,49%,Trump,44%
+Sept. 23-25,"2,021",A,Big Village,,Harris,46%,Harris,46%,Trump,41%
 Sept. 21-24,"1,220",LV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,46%
 Sept. 21-24,"1,424",RV,YouGov,The Economist,Harris,47%,Harris,47%,Trump,44%
 Sept. 18-24,"1,000",LV,ActiVote,,Harris,51%,Harris,51%,Trump,49%
@@ -14,4 +19,3 @@ Sept. 19-22,"1,728",LV,Quinnipiac University,,Harris,48%,Harris,48%,Trump,48%
 Sept. 19-22,"1,728",LV,Quinnipiac University,,Harris,47%,Harris,47%,Trump,48%
 Sept. 19-22,"2,074",RV,CNN/SSRS,,Harris,47%,Harris,47%,Trump,47%
 Sept. 19-22,"2,074",LV,CNN/SSRS,,Harris,48%,Harris,48%,Trump,47%
-Sept. 18-20,"3,129",LV,YouGov,CBS News,Harris,52%,Harris,52%,Trump,48%
