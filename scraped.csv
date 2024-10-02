@@ -1,4 +1,6 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Sept. 29-Oct. 1,"1,261",LV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,46%
+Sept. 29-Oct. 1,"1,463",RV,YouGov,The Economist,Harris,48%,Harris,48%,Trump,45%
 Sept. 27-29,"11,381",LV,Morning Consult,,Harris,51%,Harris,51%,Trump,46%
 Sept. 27-29,888,RV,Leger,The New York Post,Harris,50%,Harris,50%,Trump,48%
 Sept. 27-29,837,LV,Leger,The New York Post,Harris,51%,Harris,51%,Trump,47%
@@ -17,4 +19,3 @@ Sept. 21-24,"1,424",RV,YouGov,The Economist,Harris,47%,Harris,47%,Trump,44%
 Sept. 19-24,"1,000",LV,Clarity Campaign Labs,,Harris,58%,Harris,58%,Vance,37%
 Sept. 19-24,"1,000",LV,Clarity Campaign Labs,,Harris,51%,Harris,51%,Trump,44%
 Sept. 18-24,"1,000",LV,ActiVote,,Harris,51%,Harris,51%,Trump,49%
-Sept. 21-23,"11,157",LV,Morning Consult,,Harris,51%,Harris,51%,Trump,45%
