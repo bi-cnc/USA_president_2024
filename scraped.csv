@@ -1,6 +1,8 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Sept. 25-Oct. 2,"1,000",LV,ActiVote,,Harris,51%,Harris,51%,Trump,49%
 Sept. 29-Oct. 1,"1,261",LV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,46%
 Sept. 29-Oct. 1,"1,463",RV,YouGov,The Economist,Harris,48%,Harris,48%,Trump,45%
+Sept. 29-Oct. 1,"1,000",LV,Emerson College,,Harris,50%,Harris,50%,Trump,49%
 Sept. 23-Oct. 1,"1,001",LV,Susquehanna Polling & Research,,Harris,49%,Harris,49%,Trump,44%
 Sept. 27-29,"11,381",LV,Morning Consult,,Harris,51%,Harris,51%,Trump,46%
 Sept. 27-29,888,RV,Leger,The New York Post,Harris,50%,Harris,50%,Trump,48%
@@ -15,8 +17,3 @@ Sept. 23-25,"1,005",LV,Echelon Insights,,Harris,52%,Harris,52%,Trump,45%
 Sept. 23-25,"1,524",LV,Big Village,,Harris,50%,Harris,50%,Trump,46%
 Sept. 23-25,"1,663",RV,Big Village,,Harris,49%,Harris,49%,Trump,44%
 Sept. 23-25,"2,021",A,Big Village,,Harris,46%,Harris,46%,Trump,41%
-Sept. 21-24,"1,220",LV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,46%
-Sept. 21-24,"1,424",RV,YouGov,The Economist,Harris,47%,Harris,47%,Trump,44%
-Sept. 19-24,"1,000",LV,Clarity Campaign Labs,,Harris,58%,Harris,58%,Vance,37%
-Sept. 19-24,"1,000",LV,Clarity Campaign Labs,,Harris,51%,Harris,51%,Trump,44%
-Sept. 18-24,"1,000",LV,ActiVote,,Harris,51%,Harris,51%,Trump,49%
