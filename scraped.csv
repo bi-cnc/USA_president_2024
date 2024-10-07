@@ -1,4 +1,7 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Oct. 4-6,"1,001",LV,Research Co.,,Harris,49%,Harris,49%,Trump,45%
+Oct. 2-4,,LV,YouGov,Yahoo News,Harris,47%,Harris,47%,Trump,47%
+Oct. 2-4,,RV,YouGov,Yahoo News,Harris,46%,Harris,46%,Trump,45%
 Oct. 2-4,997,LV,TIPP Insights,Issues & Insights,Harris,48%,Harris,48%,Trump,45%
 Oct. 2-4,997,LV,TIPP Insights,Issues & Insights,Harris,49%,Harris,49%,Trump,46%
 Oct. 2-3,"1,211",LV,Data for Progress,,Harris,49%,Harris,49%,Trump,46%
@@ -10,7 +13,3 @@ Sept. 29-Oct. 1,"1,000",LV,Emerson College,,Harris,50%,Harris,50%,Trump,49%
 Sept. 27-Oct. 1,"1,514",RV,Marist College,"NPR,PBS News",Harris,50%,Harris,50%,Trump,47%
 Sept. 27-Oct. 1,"1,294",LV,Marist College,"NPR,PBS News",Harris,50%,Harris,50%,Trump,48%
 Sept. 23-Oct. 1,"1,001",LV,Susquehanna Polling & Research,,Harris,49%,Harris,49%,Trump,44%
-Sept. 28-29,"1,616",LV,Redfield & Wilton Strategies,,Harris,48%,Harris,48%,Trump,46%
-Sept. 27-29,"11,381",LV,Morning Consult,,Harris,51%,Harris,51%,Trump,46%
-Sept. 27-29,888,RV,Leger,The New York Post,Harris,50%,Harris,50%,Trump,48%
-Sept. 27-29,837,LV,Leger,The New York Post,Harris,51%,Harris,51%,Trump,47%
