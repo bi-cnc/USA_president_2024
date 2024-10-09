@@ -1,4 +1,7 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Oct. 3-8,"1,000",LV,ActiVote,,Harris,49%,Harris,49%,Trump,51%
+Oct. 6-7,"1,230",LV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,45%
+Oct. 6-7,"1,414",RV,YouGov,The Economist,Harris,47%,Harris,47%,Trump,44%
 Oct. 4-7,"1,076",LV,Ipsos,Reuters,Harris,51%,Harris,51%,Trump,49%
 Oct. 4-7,"1,076",RV,Ipsos,Reuters,Harris,50%,Harris,50%,Trump,48%
 Oct. 4-7,"1,272",A,Ipsos,Reuters,Harris,48%,Harris,48%,Trump,47%
@@ -24,4 +27,3 @@ Oct. 2-3,"1,500",LV,Cygnal,,Harris,50%,Harris,50%,Trump,47%
 Oct. 2-3,"1,500",LV,Cygnal,,Harris,47%,Harris,47%,Trump,45%
 Oct. 1-3,"10,775",LV,Morning Consult,,Harris,50%,Harris,50%,Trump,45%
 Sept. 30-Oct. 3,"2,965",LV,RMG Research,Napolitan Institute,Harris,49%,Harris,49%,Trump,49%
-Sept. 25-Oct. 2,"1,000",LV,ActiVote,,Harris,51%,Harris,51%,Trump,49%
