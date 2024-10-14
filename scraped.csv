@@ -1,6 +1,15 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Oct. 8-11,"2,712",LV,YouGov,CBS News,Harris,51%,Harris,51%,Trump,48%
 Oct. 7-10,"2,945",LV,RMG Research,Napolitan Institute,Harris,50%,Harris,50%,Trump,47%
 Oct. 6-8,"2,180",LV,co/efficient,Americans for IVF,Harris,49%,Harris,49%,Trump,47%
+Oct. 4-8,"1,714",LV,Ipsos,ABC News,Harris,51%,Harris,51%,Trump,48%
+Oct. 4-8,"2,226",RV,Ipsos,ABC News,Harris,50%,Harris,50%,Trump,49%
+Oct. 4-8,"2,631",A,Ipsos,ABC News,Harris,50%,Harris,50%,Trump,49%
+Oct. 4-8,"1,714",LV,Ipsos,ABC News,Harris,50%,Harris,50%,Trump,48%
+Oct. 4-8,"2,226",RV,Ipsos,ABC News,Harris,49%,Harris,49%,Trump,47%
+Oct. 4-8,"2,631",A,Ipsos,ABC News,Harris,49%,Harris,49%,Trump,48%
+Oct. 4-8,"1,000",RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,48%,Harris,48%,Trump,48%
+Oct. 4-8,"1,000",RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,46%,Harris,46%,Trump,47%
 Oct. 3-8,"1,000",LV,ActiVote,,Harris,49%,Harris,49%,Trump,51%
 Oct. 6-7,"1,230",LV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,45%
 Oct. 6-7,"1,414",RV,YouGov,The Economist,Harris,47%,Harris,47%,Trump,44%
@@ -17,16 +26,3 @@ Sept. 30-Oct. 6,"4,025",RV,Pew Research Center,,Harris,50%,Harris,50%,Trump,49
 Sept. 30-Oct. 6,"4,025",RV,Pew Research Center,,Harris,48%,Harris,48%,Trump,47%
 Sept. 29-Oct. 6,"3,385",LV,The New York Times/Siena College,,Harris,47%,Harris,47%,Trump,44%
 Sept. 29-Oct. 6,"3,385",LV,The New York Times/Siena College,,Harris,49%,Harris,49%,Trump,46%
-Oct. 2-4,"1,033",LV,YouGov,Yahoo News,Harris,48%,Harris,48%,Trump,47%
-Oct. 2-4,"1,151",RV,YouGov,Yahoo News,Harris,48%,Harris,48%,Trump,46%
-Oct. 2-4,"1,032",LV,YouGov,Yahoo News,Harris,47%,Harris,47%,Trump,47%
-Oct. 2-4,"1,150",RV,YouGov,Yahoo News,Harris,46%,Harris,46%,Trump,45%
-Oct. 2-4,997,LV,TIPP Insights,Issues & Insights,Harris,48%,Harris,48%,Trump,45%
-Oct. 2-4,997,LV,TIPP Insights,Issues & Insights,Harris,49%,Harris,49%,Trump,46%
-Oct. 2-4,"2,560",RV,Noble Predictive Insights,The Center Square,Harris,47%,Harris,47%,Trump,45%
-Oct. 2-4,"2,560",RV,Noble Predictive Insights,The Center Square,Harris,47%,Harris,47%,Trump,46%
-Oct. 2-4,"2,290",LV,Noble Predictive Insights,The Center Square,Harris,49%,Harris,49%,Trump,47%
-Oct. 2-4,"2,290",LV,Noble Predictive Insights,The Center Square,Harris,49%,Harris,49%,Trump,46%
-Oct. 2-4,755,LV,Big Village,,Harris,50%,Harris,50%,Trump,46%
-Oct. 2-4,841,RV,Big Village,,Harris,49%,Harris,49%,Trump,45%
-Oct. 2-4,"1,013",A,Big Village,,Harris,45%,Harris,45%,Trump,42%
