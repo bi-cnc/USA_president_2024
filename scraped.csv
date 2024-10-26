@@ -1,11 +1,15 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
 Oct. 22-24,"1,357",LV,TIPP Insights,,Harris,49%,Harris,49%,Trump,47%
 Oct. 19-24,"1,000",LV,ActiVote,,Harris,50%,Harris,50%,Trump,50%
+Oct. 21-23,633,LV,Tufts University Public Opinion Lab,,Harris,49%,Harris,49%,Trump,48%
+Oct. 21-23,"1,033",A,Tufts University Public Opinion Lab,,Harris,49%,Harris,49%,Trump,45%
 Oct. 21-23,800,LV,OnMessage,Senate Opportunity FundSenate Opportunity Fundis a partisan sponsor for the Republican Party.,Harris,46%,Harris,46%,Trump,47%
 Oct. 20-23,"2,516",LV,The New York Times/Siena College,,Harris,46%,Harris,46%,Trump,47%
 Oct. 20-23,"2,516",LV,The New York Times/Siena College,,Harris,48%,Harris,48%,Trump,48%
 Oct. 20-23,"2,516",RV,The New York Times/Siena College,,Harris,45%,Harris,45%,Trump,46%
 Oct. 20-23,"2,516",RV,The New York Times/Siena College,,Harris,47%,Harris,47%,Trump,47%
+Oct. 20-23,"1,704",RV,CNN/SSRS,,Harris,47%,Harris,47%,Trump,46%
+Oct. 20-23,"1,704",LV,CNN/SSRS,,Harris,47%,Harris,47%,Trump,47%
 Oct. 18-23,"1,592",LV,Big Village,,Harris,52%,Harris,52%,Trump,45%
 Oct. 18-23,"1,739",RV,Big Village,,Harris,49%,Harris,49%,Trump,43%
 Oct. 18-23,"2,026",A,Big Village,,Harris,46%,Harris,46%,Trump,41%
@@ -17,7 +21,7 @@ Oct. 19-22,"1,293",LV,YouGov,The Economist,Harris,49%,Harris,49%,Trump,46%
 Oct. 19-22,"1,422",RV,YouGov,The Economist,Harris,48%,Harris,48%,Trump,46%
 Oct. 19-22,"1,500",RV,"Fabrizio, Lee & Associates/GBAO",The Wall Street Journal,Harris,46%,Harris,46%,Trump,49%
 Oct. 19-22,"1,500",RV,"Fabrizio, Lee & Associates/GBAO",The Wall Street Journal,Harris,45%,Harris,45%,Trump,47%
-Oct. 21,"1,273",LV,Redfield & Wilton Strategies,,Harris,45%,Harris,45%,Trump,47%
+Oct. 21,"1,189",LV,Redfield & Wilton Strategies,,Harris,45%,Harris,45%,Trump,47%
 Oct. 19-21,"1,268",LV,TIPP Insights,,Harris,48%,Harris,48%,Trump,48%
 Oct. 18-21,"1,189",LV,YouGov,"The Times of London,SAY24",Harris,48%,Harris,48%,Trump,45%
 Oct. 18-21,"1,266",RV,YouGov,"The Times of London,SAY24",Harris,47%,Harris,47%,Trump,45%
