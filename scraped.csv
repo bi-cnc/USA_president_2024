@@ -1,6 +1,8 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
 Oct. 25-27,"1,288",LV,TIPP Insights,,Harris,48%,Harris,48%,Trump,48%
 Oct. 23-25,"2,154",LV,YouGov,CBS News,Harris,50%,Harris,50%,Trump,49%
+Oct. 1-25,"48,732",LV,CCES/YouGov,,Harris,51%,Harris,51%,Trump,47%
+Oct. 1-25,"78,247",A,CCES/YouGov,,Harris,51%,Harris,51%,Trump,46%
 Oct. 23-24,"1,000",LV,Emerson College,,Harris,49%,Harris,49%,Trump,49%
 Oct. 22-24,"1,357",LV,TIPP Insights,,Harris,49%,Harris,49%,Trump,47%
 Oct. 19-24,"1,000",LV,ActiVote,,Harris,50%,Harris,50%,Trump,50%
@@ -16,6 +18,8 @@ Oct. 20-23,"1,704",LV,CNN/SSRS,,Harris,47%,Harris,47%,Trump,47%
 Oct. 18-23,"1,592",LV,Big Village,,Harris,52%,Harris,52%,Trump,45%
 Oct. 18-23,"1,739",RV,Big Village,,Harris,49%,Harris,49%,Trump,43%
 Oct. 18-23,"2,026",A,Big Village,,Harris,46%,Harris,46%,Trump,41%
+Oct. 17-23,"1,314",LV,Clarity Campaign Labs,,Harris,55%,Harris,55%,Vance,42%
+Oct. 17-23,"1,314",LV,Clarity Campaign Labs,,Harris,50%,Harris,50%,Trump,46%
 Oct. 21-22,"1,244",LV,HarrisX,Forbes,Harris,48%,Harris,48%,Trump,49%
 Oct. 21-22,"1,512",RV,HarrisX,Forbes,Harris,48%,Harris,48%,Trump,48%
 Oct. 21-22,"1,244",LV,HarrisX,Forbes,Harris,49%,Harris,49%,Trump,51%
