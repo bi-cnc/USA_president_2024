@@ -1,7 +1,14 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Oct. 25-29,"3,032",LV,AtlasIntel,,Harris,48%,Harris,48%,Trump,50%
+Oct. 25-29,"3,032",LV,AtlasIntel,,Harris,47%,Harris,47%,Trump,50%
 Oct. 26-28,"1,291",LV,TIPP Insights,,Harris,48%,Harris,48%,Trump,47%
 Oct. 25-27,"8,807",LV,Morning Consult,,Harris,50%,Harris,50%,Trump,47%
+Oct. 25-27,"1,150",A,Ipsos,Reuters,Harris,40%,Harris,40%,Trump,41%
+Oct. 25-27,,LV,Ipsos,Reuters,Harris,47%,Harris,47%,Trump,46%
+Oct. 25-27,975,RV,Ipsos,Reuters,Harris,44%,Harris,44%,Trump,43%
 Oct. 23-27,"1,928",RV,Angus Reid Global,,Harris,49%,Harris,49%,Trump,47%
+Oct. 20-27,911,LV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Harris,49%,Harris,49%,Trump,47%
+Oct. 20-27,937,RV,Florida Atlantic University PolCom Lab/Mainstreet Research,,Harris,48%,Harris,48%,Trump,47%
 Oct. 23-25,"2,154",LV,YouGov,CBS News,Harris,50%,Harris,50%,Trump,49%
 Oct. 23-25,"1,333",LV,TIPP Insights,,Harris,48%,Harris,48%,Trump,48%
 Oct. 1-25,"48,732",LV,CCES/YouGov,,Harris,51%,Harris,51%,Trump,47%
@@ -9,17 +16,3 @@ Oct. 1-25,"78,247",A,CCES/YouGov,,Harris,51%,Harris,51%,Trump,46%
 Oct. 23-24,"1,000",LV,Emerson College,,Harris,49%,Harris,49%,Trump,49%
 Oct. 22-24,"8,669",LV,Morning Consult,,Harris,50%,Harris,50%,Trump,46%
 Oct. 19-24,"1,000",LV,ActiVote,,Harris,50%,Harris,50%,Trump,50%
-Oct. 21-23,633,LV,Tufts University Public Opinion Lab,,Harris,49%,Harris,49%,Trump,48%
-Oct. 21-23,"1,033",A,Tufts University Public Opinion Lab,,Harris,49%,Harris,49%,Trump,45%
-Oct. 21-23,800,LV,OnMessage,Senate Opportunity FundSenate Opportunity Fundis a partisan sponsor for the Republican Party.,Harris,46%,Harris,46%,Trump,47%
-Oct. 20-23,"2,516",LV,The New York Times/Siena College,,Harris,46%,Harris,46%,Trump,47%
-Oct. 20-23,"2,516",LV,The New York Times/Siena College,,Harris,48%,Harris,48%,Trump,48%
-Oct. 20-23,"2,516",RV,The New York Times/Siena College,,Harris,45%,Harris,45%,Trump,46%
-Oct. 20-23,"2,516",RV,The New York Times/Siena College,,Harris,47%,Harris,47%,Trump,47%
-Oct. 20-23,"1,704",RV,CNN/SSRS,,Harris,47%,Harris,47%,Trump,46%
-Oct. 20-23,"1,704",LV,CNN/SSRS,,Harris,47%,Harris,47%,Trump,47%
-Oct. 18-23,"1,592",LV,Big Village,,Harris,52%,Harris,52%,Trump,45%
-Oct. 18-23,"1,739",RV,Big Village,,Harris,49%,Harris,49%,Trump,43%
-Oct. 18-23,"2,026",A,Big Village,,Harris,46%,Harris,46%,Trump,41%
-Oct. 17-23,"1,314",LV,Clarity Campaign Labs,,Harris,55%,Harris,55%,Vance,42%
-Oct. 17-23,"1,314",LV,Clarity Campaign Labs,,Harris,50%,Harris,50%,Trump,46%
