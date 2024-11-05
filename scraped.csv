@@ -1,15 +1,29 @@
 Date,Sample,Sample Type,Pollster,Sponsor,Candidate 1,Percentage 1,Candidate 2,Percentage 2,Candidate 3,Percentage 3
+Nov. 3-4,"2,703",LV,AtlasIntel,,Harris,49%,Harris,49%,Trump,50%
+Nov. 3-4,"2,703",LV,AtlasIntel,,Harris,48%,Harris,48%,Trump,49%
 Nov. 2-3,"1,003",LV,Research Co.,,Harris,48%,Harris,48%,Trump,46%
+Nov. 2-3,"1,005",LV,John Zogby Strategies,,Harris,49%,Harris,49%,Trump,46%
+Nov. 2-3,"1,005",LV,John Zogby Strategies,,Harris,48%,Harris,48%,Trump,45%
 Nov. 1-3,"1,411",LV,TIPP Insights,,Harris,48%,Harris,48%,Trump,49%
 Nov. 1-3,"1,411",LV,TIPP Insights,,Harris,48%,Harris,48%,Trump,48%
 Nov. 1-3,"1,115",RV,Patriot Polling,,Harris,49%,Harris,49%,Trump,48%
+Nov. 1-3,973,LV,Ipsos,Reuters,Harris,50%,Harris,50%,Trump,48%
+Nov. 1-3,"1,242",A,Ipsos,Reuters,Harris,41%,Harris,41%,Trump,39%
 Oct. 31-Nov. 3,886,LV,Leger,The New York Post,Harris,49%,Harris,49%,Trump,49%
 Nov. 1-2,"2,463",LV,AtlasIntel,,Harris,48%,Harris,48%,Trump,50%
 Nov. 1-2,"2,463",LV,AtlasIntel,,Harris,47%,Harris,47%,Trump,49%
+Oct. 31-Nov. 2,"1,446",RV,Marist College,"NPR,PBS News",Harris,49%,Harris,49%,Trump,49%
+Oct. 31-Nov. 2,"1,297",LV,Marist College,"NPR,PBS News",Harris,51%,Harris,51%,Trump,47%
 Oct. 30-Nov. 2,"1,000",RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,49%,Harris,49%,Trump,49%
 Oct. 30-Nov. 2,"1,000",RV,Hart Research Associates/Public Opinion Strategies,NBC News,Harris,46%,Harris,46%,Trump,47%
+Oct. 30-Nov. 2,"4,520",RV,HarrisX,Forbes,Harris,48%,Harris,48%,Trump,47%
+Oct. 30-Nov. 2,"4,520",RV,HarrisX,Forbes,Harris,50%,Harris,50%,Trump,50%
+Oct. 30-Nov. 2,"3,759",LV,HarrisX,Forbes,Harris,51%,Harris,51%,Trump,49%
+Oct. 30-Nov. 2,"3,759",LV,HarrisX,Forbes,Harris,49%,Harris,49%,Trump,48%
 Oct. 30-Nov. 2,"1,000",LV,Emerson College,,Harris,49%,Harris,49%,Trump,49%
 Oct. 27-Nov. 2,"1,000",LV,ActiVote,,Harris,50%,Harris,50%,Trump,51%
+Oct. 30-Nov. 1,"1,088",LV,Targoz Market Research,,Harris,49%,Harris,49%,Trump,46%
+Oct. 30-Nov. 1,"1,200",RV,Targoz Market Research,,Harris,49%,Harris,49%,Trump,45%
 Oct. 29-Nov. 1,"2,267",LV,Ipsos,ABC News,Harris,49%,Harris,49%,Trump,46%
 Oct. 29-Nov. 1,"2,735",RV,Ipsos,ABC News,Harris,49%,Harris,49%,Trump,46%
 Oct. 29-Nov. 1,"3,140",A,Ipsos,ABC News,Harris,49%,Harris,49%,Trump,46%
@@ -26,7 +40,3 @@ Oct. 29-31,"1,249",LV,TIPP Insights,,Harris,48%,Harris,48%,Trump,49%
 Oct. 29-31,"8,918",LV,Morning Consult,,Harris,49%,Harris,49%,Trump,47%
 Oct. 28-31,"1,328",LV,Echelon Insights,,Harris,50%,Harris,50%,Trump,48%
 Oct. 28-31,"1,328",LV,Echelon Insights,,Harris,49%,Harris,49%,Trump,47%
-Oct. 28-30,800,LV,OnMessage,Senate Opportunity FundSenate Opportunity Fundis a partisan sponsor for the Republican Party.,Harris,45%,Harris,45%,Trump,47%
-Oct. 28-30,822,LV,American Pulse Research & Polling,,Harris,49%,Harris,49%,Trump,47%
-Oct. 28-30,822,LV,American Pulse Research & Polling,,Harris,48%,Harris,48%,Trump,46%
-Oct. 27-30,"1,832",LV,Quantus Insights,TrendingPoliticsTrendingPoliticsis a partisan sponsor for the Republican Party.,Harris,48%,Harris,48%,Trump,49%
